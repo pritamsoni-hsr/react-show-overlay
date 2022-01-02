@@ -5,6 +5,7 @@
   "tabWidth": 2,
   "bracketSpacing": true,
   "jsxBracketSameLine": false,
-  "arrowParens": "always",
-  "trailingComma": "none"
+  "arrowParens": "avoid",
+  "trailingComma": "none",
+  "printWidth": 119
 }
